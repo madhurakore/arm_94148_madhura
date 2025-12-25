@@ -1,0 +1,5 @@
+../Src/my_led_seq.c:10:6:GPIO_Init	4	static
+../Src/my_led_seq.c:31:9:Read_Switch	4	static
+../Src/my_led_seq.c:36:6:Green_LED_On	4	static
+../Src/my_led_seq.c:42:6:Blue_LED_On	4	static
+../Src/my_led_seq.c:48:6:All_LED_Off	4	static
