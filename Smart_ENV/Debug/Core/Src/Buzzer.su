@@ -1,0 +1,3 @@
+../Core/Src/Buzzer.c:14:6:Buzzer_On	8	static
+../Core/Src/Buzzer.c:19:6:Buzzer_Off	8	static
+../Core/Src/Buzzer.c:23:6:Buzzer_Toggle	8	static
